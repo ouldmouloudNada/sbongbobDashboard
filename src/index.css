@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ffaa00, #ffdd00);
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.character-card {
+  background: linear-gradient(to right, #072ac8, #a2d6f9 ) ;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.character-card img {
+  width: 100px;
+  cursor: pointer;
+}
+
+.character-card input {
+  margin: 5px 0;
+  display: block;
+  
+}
+.btn{
+  background-color: #a2d6f9;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+}
